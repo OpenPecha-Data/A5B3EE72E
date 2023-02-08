@@ -1,0 +1,21 @@
+id: A5B3EE72E
+title: Gaganagañjaparipṛcchā
+type: translation
+pechas:
+- I0379C3DF
+- IC8F63E4E
+- I49B601BE
+- I6353A441
+source_metadata:
+  languages:
+  - zh
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:06:25.123578
+  last_modified_at: 2023-02-08 15:06:25.123593
+alignment_to_base:
+  I0379C3DF/9EA2: AF20
+  IC8F63E4E/EA82: AF20
+  I49B601BE/5098: AF20
+  I6353A441/354D: AF20
